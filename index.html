@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Hero Database</title>
+
+    <link rel="stylesheet" href="table.css">
+
+</head>
+
+
+<body>
+
+    <h2>Hero Database</h2>
+
+
+    <!-- =========================
+         SEARCH BAR
+         ========================= -->
+
+    <input
+        type="text"
+        id="searchBar"
+        placeholder="Search hero..."
+    >
+
+
+    <!-- =========================
+         AVAILABILITY FILTER
+         ========================= -->
+
+    <select id="availabilityFilter">
+
+        <option value="all">
+            All
+        </option>
+
+        <option value="free">
+            Free
+        </option>
+
+        <option value="paid">
+            Paid
+        </option>
+
+    </select>
+
+
+    <!-- =========================
+         PRICE SORT
+         ========================= -->
+
+    <select id="priceSort">
+
+        <option value="none">
+            Default
+        </option>
+
+        <option value="high-low">
+            Most Expensive
+        </option>
+
+        <option value="low-high">
+            Least Expensive
+        </option>
+
+    </select>
+
+
+    <!-- =========================
+         STR HEROES
+         ========================= -->
+
+    <h3>STR</h3>
+
+    <div
+        id="strGrid"
+        class="hero-grid">
+    </div>
+
+
+    <!-- =========================
+         AGI HEROES
+         ========================= -->
+
+    <h3>AGI</h3>
+
+    <div
+        id="agiGrid"
+        class="hero-grid">
+    </div>
+
+
+    <!-- =========================
+         INT HEROES
+         ========================= -->
+
+    <h3>INT</h3>
+
+    <div
+        id="intGrid"
+        class="hero-grid">
+    </div>
+
+
+    <!-- =========================
+         HERO POPUP
+         ========================= -->
+
+    <div
+        id="heroModal"
+        class="modal">
+
+        <div class="modal-content">
+
+
+            <!-- CLOSE BUTTON -->
+
+            <span
+                class="close"
+                onclick="closeHero()">
+
+                &times;
+
+            </span>
+
+
+            <!-- HERO IMAGE -->
+
+            <img
+                id="heroImage"
+                class="hero-large"
+                src=""
+                alt="Hero"
+            >
+
+
+            <!-- HERO NAME -->
+
+            <h2 id="heroName"></h2>
+
+
+            <!-- MAIN ATTRIBUTE -->
+
+            <p>
+
+                <strong>
+                    Main Attribute:
+                </strong>
+
+                <span id="heroAttribute"></span>
+
+            </p>
+
+
+            <!-- PRICE -->
+
+            <p>
+
+                <strong>
+                    Price:
+                </strong>
+
+                <span id="heroPrice"></span>
+
+            </p>
+
+
+            <!-- PATCH HISTORY -->
+
+            <h3>
+                Patch History
+            </h3>
+
+            <div id="patchInfo"></div>
+
+
+        </div>
+
+    </div>
+
+
+    <!-- =========================
+         JAVASCRIPT
+         ========================= -->
+
+    <script src="hero.js"></script>
+
+</body>
+
+</html>
