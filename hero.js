@@ -8,7 +8,7 @@
     Vergil: {
 
         attribute: "AGI",
-        image: "afb/vergil.jpg",
+        image: "afb/vergil.png",
 
         availability: "paid",
         price: 400,
@@ -233,7 +233,7 @@
         image: "afb/chtolly.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -255,7 +255,7 @@
         image: "afb/changli.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -277,7 +277,7 @@
         image: "afb/fujino.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -299,7 +299,7 @@
         image: "afb/aya.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -321,7 +321,7 @@
         image: "afb/kanna.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -343,7 +343,7 @@
         image: "afb/acheron.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -388,7 +388,7 @@
         image: "afb/feibi.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -410,7 +410,7 @@
         image: "afb/diamond.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -432,7 +432,7 @@
         image: "afb/fate.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -454,7 +454,7 @@
         image: "afb/velseine.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -476,7 +476,7 @@
         image: "afb/anna.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -678,7 +678,7 @@
         image: "afb/nao.png",
 
         availability: "free",
-        price: 200,
+        price: 0,
 
         patches: [
 
@@ -701,7 +701,7 @@
         image: "afb/akame.png",
 
         availability: "free",
-        price: 200,
+        price: 0,
 
         patches: [
 
@@ -724,7 +724,7 @@
         image: "afb/aqua.png",
 
         availability: "free",
-        price: 200,
+        price: 0,
 
         patches: [
 
@@ -747,7 +747,7 @@
         image: "afb/alibaba.png",
 
         availability: "free",
-        price: 200,
+        price: 0,
 
         patches: [
 
@@ -793,7 +793,7 @@
         image: "afb/hibari.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -816,7 +816,7 @@
         image: "afb/misogi.png",
 
         availability: "free",
-        price: 100,
+        price: 0,
 
         patches: [
 
@@ -839,7 +839,7 @@
         image: "afb/oldikki.png",
 
         availability: "free",
-        price: 100,
+        price: 0,
 
         patches: [
 
@@ -862,7 +862,7 @@
         image: "afb/newikki.png",
 
         availability: "free",
-        price: 100,
+        price: 0,
 
         patches: [
 
@@ -885,7 +885,7 @@
         image: "afb/law.png",
 
         availability: "free",
-        price: 100,
+        price: 0,
 
         patches: [
 
@@ -908,7 +908,7 @@
         image: "afb/naruto.png",
 
         availability: "free",
-        price: 100,
+        price: 0,
 
         patches: [
 
@@ -931,7 +931,7 @@
         image: "afb/madoka.png",
 
         availability: "free",
-        price: 100,
+        price: 0,
 
         patches: [
 
@@ -977,7 +977,7 @@
         image: "afb/byakuran.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1000,7 +1000,7 @@
         image: "afb/tohno.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1023,7 +1023,7 @@
         image: "afb/shana.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1046,7 +1046,7 @@
         image: "afb/hibiki.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1434,7 +1434,7 @@
         image: "afb/byakuya.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1457,7 +1457,7 @@
         image: "afb/inuyasha.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1502,7 +1502,7 @@
         image: "afb/okita.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1525,7 +1525,7 @@
         image: "afb/tsuna.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1548,7 +1548,7 @@
         image: "afb/rentarou.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1686,7 +1686,7 @@
         image: "afb/kotori.png",
 
         availability: "free",
-        price: 200,
+        price: 0,
 
         patches: [
 
@@ -1732,7 +1732,7 @@
         image: "afb/akaza.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1755,7 +1755,7 @@
         image: "afb/youmu.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1778,7 +1778,7 @@
         image: "afb/hibari.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1801,7 +1801,7 @@
         image: "afb/deku.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1847,7 +1847,7 @@
         image: "afb/yomi.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -1870,7 +1870,7 @@
         image: "afb/pein.png",
 
         availability: "free",
-        price: 600,
+        price: 0,
 
         patches: [
 
@@ -1893,7 +1893,7 @@
         image: "afb/aizen.png",
 
         availability: "free",
-        price: 600,
+        price: 0,
 
         patches: [
 
@@ -1916,7 +1916,7 @@
         image: "afb/stella.png",
 
         availability: "free",
-        price: 600,
+        price: 0,
 
         patches: [
 
@@ -2008,7 +2008,7 @@
         image: "afb/yukina.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2076,7 +2076,7 @@
         image: "afb/kanzaki.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2099,7 +2099,7 @@
         image: "afb/glenn.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2122,7 +2122,7 @@
         image: "afb/555.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2145,7 +2145,7 @@
         image: "afb/555.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2260,7 +2260,7 @@
         image: "afb/luffy.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2283,7 +2283,7 @@
         image: "afb/diablo.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2306,7 +2306,7 @@
         image: "afb/dio.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2329,7 +2329,7 @@
         image: "afb/lelouch.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2509,7 +2509,7 @@
         image: "afb/gilgamesh.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -2531,7 +2531,7 @@
         image: "afb/freedom.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -2554,7 +2554,7 @@
         image: "afb/edominato.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -2644,7 +2644,7 @@
         image: "afb/nanoha.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2667,7 +2667,7 @@
         image: "afb/shisui.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -2873,7 +2873,7 @@
         image: "afb/hichigo.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -2919,7 +2919,7 @@
         image: "afb/mika.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -2942,7 +2942,7 @@
         image: "afb/214.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -2988,7 +2988,7 @@
         image: "afb/klee.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -3011,7 +3011,7 @@
         image: "afb/touma.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -3035,7 +3035,7 @@
         image: "afb/kenshin.png",
 
         availability: "free",
-        price: 400,
+        price: 0,
 
         patches: [
 
@@ -3378,7 +3378,7 @@
         image: "afb/goeniko.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -3401,7 +3401,7 @@
         image: "afb/grey.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -3424,7 +3424,7 @@
         image: "afb/kanade.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -3446,7 +3446,7 @@
         image: "afb/kyouka.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -3469,7 +3469,7 @@
         image: "afb/melilith.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -3492,7 +3492,7 @@
         image: "afb/mokou.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -3515,7 +3515,7 @@
         image: "afb/ssy.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4418,7 +4418,7 @@
         image: "afb/escanor.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4441,7 +4441,7 @@
         image: "afb/sukuna.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4464,7 +4464,7 @@
         image: "afb/kenshiro.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4487,7 +4487,7 @@
         image: "afb/dantes.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4510,7 +4510,7 @@
         image: "afb/akainu.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4533,7 +4533,7 @@
         image: "afb/whitebeard.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4602,7 +4602,7 @@
         image: "afb/izayoigirl.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4625,7 +4625,7 @@
         image: "afb/oumashu.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4650,7 +4650,7 @@
         image: "afb/hoshino.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4673,7 +4673,7 @@
         image: "afb/yami.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4768,7 +4768,7 @@
         image: "afb/orozwel.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
@@ -4814,7 +4814,7 @@
         image: "afb/ulquiorra.png",
 
         availability: "free",
-        price: 300,
+        price: 0,
 
         patches: [
 
