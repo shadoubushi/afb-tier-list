@@ -13,6 +13,14 @@
         availability: "paid",
         price: 400,
 
+        keywords: [
+            "白色椅子",
+            "power",
+            "yamato",
+            "门",
+            "grab"
+        ],
+
         patches: [
 
             {
@@ -36,6 +44,12 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "猫猫头", "贝吉特", "踢死人", "宇宙最强战士"
+            
+            
+        ],
+
         patches: [
 
             {
@@ -58,6 +72,12 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "男16","门"
+        ],
+
+
+
         patches: [
 
             {
@@ -78,6 +98,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "门", "鸣人"
+        ],
 
         patches: [
 
@@ -101,6 +125,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "门", "黑岩"
+        ],
+
         patches: [
 
             {
@@ -123,6 +151,10 @@
         availability: "Free",
         price: 0,
 
+        keywords: [
+            "慧慧", "门"
+        ],
+
         patches: [
 
             {
@@ -138,13 +170,17 @@
 
 
 
-    KiraQueen: {
+    YoshikageKira: {
 
         attribute: "INT",
         image: "afb/YoshikageKira.png",
 
         availability: "Free",
         price: 0,
+
+        keywords: [ 
+            "炸弹人", "Kiraqueen", "上班族", "女性杀手", "门"
+        ],
 
         patches: [
 
@@ -169,6 +205,13 @@
         availability: "paid",
         price: 1000,
 
+
+        keywords: [ 
+            "门", "冥王", "mw"
+        ],
+
+
+
         patches: [
 
             {
@@ -187,6 +230,10 @@
 
         attribute: "AGI",
         image: "afb/melusinewater.png",
+
+        keywords: [ 
+            "水妖", "门"
+        ],
 
         availability: "free",
         price: 0,
@@ -213,6 +260,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [ 
+            "妖兰"
+        ],
+
         patches: [
 
             {
@@ -234,6 +285,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [ 
+            "幸福女孩 ", "珂朵莉"
+        ],
 
         patches: [
 
@@ -257,6 +312,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "长离"
+        ],
+
         patches: [
 
             {
@@ -278,6 +337,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [ 
+            "浅上藤乃", 
+        ],
 
         patches: [
 
@@ -301,6 +364,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "文文"
+        ],
+
         patches: [
 
             {
@@ -322,6 +389,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [ 
+            "咖啡女孩"
+        ],
 
         patches: [
 
@@ -345,6 +416,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "阴间", "TT", "黄泉"
+                        ],
+
         patches: [
 
             {
@@ -367,6 +442,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [ 
+            "雷军"
+        ],
+
         patches: [
 
             {
@@ -382,13 +461,17 @@
 
 
 
-    Feibi: {
+    菲比啾比: {
 
         attribute: "INT",
         image: "afb/feibi.png",
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "拉电线", "mizuki", "cute", "教主"
+        ],
 
         patches: [
 
@@ -412,6 +495,13 @@
         availability: "free",
         price: 0,
 
+
+        keywords: [ 
+            "马娘"
+        ],
+
+        
+
         patches: [
 
             {
@@ -433,6 +523,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [ 
+            "菲特"
+        ],
 
         patches: [
 
@@ -456,6 +550,11 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "TT", "bell", "贝露"
+        ],
+
+
         patches: [
 
             {
@@ -478,6 +577,13 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "大眼萌妹", "萝莉", "阴间"
+        ],
+
+
+
+
         patches: [
 
             {
@@ -499,6 +605,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [ 
+            "卡提希娅"
+        ],
 
         patches: [
 
@@ -523,6 +633,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "piano", "jojo", "门", "钢琴"
+        ],
+
         patches: [
 
             {
@@ -543,6 +657,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [ 
+            "前辈我肮脏了吗", "间桐樱"
+        ],
 
         patches: [
 
@@ -567,6 +685,12 @@
         availability: "paid",
         price: 300,
 
+        keywords: [ 
+            "阴间", "艾蕾", "kaas", "me na toi", "ai heer", "老板娘"
+        ],
+
+        
+
         patches: [
 
             {
@@ -590,6 +714,11 @@
         availability: "paid",
         price: 300,
 
+
+        keywords: [ 
+            "路西法", "lucifer"
+        ],
+
         patches: [
 
             {
@@ -611,6 +740,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [ 
+            "断手", "阴间", "数值怪", "佐助"
+        ],
 
         patches: [
 
@@ -635,6 +768,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "佐助", "鹰佐"
+        ],
+
         patches: [
 
             {
@@ -658,6 +795,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [ 
+            "萌王", "slime", "斯莱姆", "cute", "mizuki?"
+        ],
+
         patches: [
 
             {
@@ -679,6 +820,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [ 
+            "阴间", "数值怪", "noire", "ORA", "死翼"
+        ],
 
         patches: [
 
@@ -703,6 +848,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [ 
+            "刺杀", "赤瞳", "数值怪", "put", "吸血鬼"
+        ],
+
         patches: [
 
             {
@@ -725,6 +874,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [ 
+            " 阿克娅", "智障女神"
+        ],
 
         patches: [
 
@@ -749,6 +902,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "王子", "阿里巴巴","淘宝"
+        ],
+
         patches: [
 
             {
@@ -772,6 +929,13 @@
         availability: "paid",
         price: 200,
 
+        keywords: [
+
+            "深雪", "司波达也", "兄控"
+
+        ],
+
+
         patches: [
 
             {
@@ -794,6 +958,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "泰国配件", "单挑", "云雀"
+        ],
 
         patches: [
 
@@ -818,6 +986,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴间", "球球", "点名", "duang"
+        ],
+
         patches: [
 
             {
@@ -840,6 +1012,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "旧一辉", "一刀修罗", "七星剑王"
+        ],
 
         patches: [
 
@@ -864,6 +1040,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "新一辉", "一刀修罗", "数值怪", "阴间", "七星剑王"
+        ],
+
         patches: [
 
             {
@@ -886,6 +1066,13 @@
 
         availability: "free",
         price: 0,
+        
+
+        keywords: [
+            " 罗 ", "医生", "变身狗"
+        ],
+
+        
 
         patches: [
 
@@ -910,6 +1097,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "鸣人", "变身狗", "村长"
+        ],
+
         patches: [
 
             {
@@ -932,6 +1123,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "小圆", "魔法少女", "kaas", "神", "ai heer", "me na toi", "拉完了", "老板娘"
+        ],
 
         patches: [
 
@@ -956,6 +1151,10 @@
         availability: "paid",
         price: 100,
 
+        keywords: [
+            "阴间", "海马", "数值怪"
+        ],
+
         patches: [
 
             {
@@ -978,6 +1177,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "白兰", "阴间", "泰国"
+        ],
 
         patches: [
 
@@ -1002,6 +1205,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "退魔之眼", "直死魔眼", "远野志贵", "反击狗"
+        ],
+
         patches: [
 
             {
@@ -1024,6 +1231,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "xiaore", "夏娜", 
+        ],
 
         patches: [
 
@@ -1048,6 +1259,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "数值怪", "立花响"
+        ],
+
         patches: [
 
             {
@@ -1071,6 +1286,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "金蟑螂", "来晚了", "one for all"
+        ],
+
         patches: [
 
             {
@@ -1092,6 +1311,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴间", "六道骸"
+        ],
 
         patches: [
 
@@ -1116,6 +1339,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "不是人", "拉完了", "雪莉娅"
+        ],
+
         patches: [
 
             {
@@ -1137,6 +1364,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "蚊子", "密斯特岗","数值怪", "阴间"
+        ],
 
         patches: [
 
@@ -1161,6 +1392,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "拉完了", "奶刀", "tt",
+        ],
+
         patches: [
 
             {
@@ -1183,6 +1418,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "拉完了", " 蕾米莉亚", "吸血鬼", "东方", "krm", "koros"
+        ],
 
         patches: [
 
@@ -1207,6 +1446,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "卖炭的来了", "炭治郎", "火神乐乐"
+        ],
+
         patches: [
 
             {
@@ -1229,6 +1472,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "jojo", "阿公", "绅士", "HARMON OVERDRIVE"
+        ],
 
         patches: [
 
@@ -1253,6 +1500,10 @@
         availability: "paid",
         price: 0,
 
+        keywords: [
+            "拉完了", "莫德雷德", "不卖"
+        ],
+
         patches: [
 
             {
@@ -1275,6 +1526,10 @@
 
         availability: "paid",
         price: 1200,
+
+        keywords: [
+            "莉莉", "数值怪", "工具人"
+        ],
 
         patches: [
 
@@ -1299,6 +1554,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "kaas", "ai heer", "me na toi", "魔神总司", "老板娘"
+        ],
+
         patches: [
 
             {
@@ -1321,6 +1580,10 @@
 
         availability: "paid",
         price: 200,
+
+        keywords: [
+            "kaas", "ai heer", "me na toi", "拉完了", "清姬", "老板娘"
+        ],
 
         patches: [
 
@@ -1345,6 +1608,10 @@
         availability: "paid",
         price: 200,
 
+        keywords: [
+            "清姬"
+        ],
+
         patches: [
 
             {
@@ -1367,6 +1634,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "肥佬", "月亮", "阴间", "kamen rider", "电线杆", 
+        ],
 
         patches: [
 
@@ -1391,6 +1662,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "效忠", "黑洞", "black hole", "E总", "kamen rider"
+        ],
+
         patches: [
 
             {
@@ -1412,6 +1687,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "草地京", "kono bodi ga", "飞奔的红莲", "我的拳头可是有历史的"
+        ],
 
         patches: [
 
@@ -1436,6 +1715,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "白哉", "阴间"
+        ],
+
         patches: [
 
             {
@@ -1459,6 +1742,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "拉完了", "犬夜叉"
+        ],
+
         patches: [
 
             {
@@ -1474,13 +1761,17 @@
     },
 
 
-    Bloo: {
+    DarkBloo: {
 
         attribute: "AGI",
         image: "afb/bloo.png",
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "深蓝", "Kdash", "beautiful lies","库拉", "我一个人就足够了", "ore hitori de jubun da", "makuro"
+        ],
 
         patches: [
 
@@ -1503,6 +1794,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "沖田", "拉完了", "koros", "数值怪"
+        ],
 
         patches: [
 
@@ -1527,6 +1822,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "noire", "阴间", "纲吉", "数值怪"
+        ],
+
         patches: [
 
             {
@@ -1549,6 +1848,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "踢死人", "数值怪", "莲太郎"
+        ],
 
         patches: [
 
@@ -1573,6 +1876,10 @@
         availability: "paid",
         price: 500,
 
+        keywords: [
+            "拉完了", "王哈", "秒杀", "山中老人", "kubi", "交出手机", "assa"
+        ],
+
         patches: [
 
             {
@@ -1595,6 +1902,10 @@
 
         availability: "paid",
         price: 400,
+
+        keywords: [
+            "拉完了", "姐妹", "红叶", "suzaku hyper dry", "weif", "红捏捏"
+        ],
 
         patches: [
 
@@ -1619,6 +1930,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "时王", "kamen rider", "数值怪", "阴间"
+        ],
+
         patches: [
 
             {
@@ -1642,6 +1957,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "僵尸", "zombie", "hyper muteki", "kamen rider", "krm", "koros"
+        ],
+
         patches: [
 
             {
@@ -1657,13 +1976,17 @@
     },
 
 
-    Tatsuya: {
+    ShibaTatsuya: {
 
         attribute: "AGI",
         image: "afb/tatsuya.png",
 
         availability: "paid",
         price: 160,
+
+        keywords: [
+            "拉完了", "司波达也", "不是人", "Mikoto", "妹控"
+        ],
 
         patches: [
 
@@ -1688,6 +2011,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+           "兄控", "数值怪", "date a live", "琴里"
+        ],
+
         patches: [
 
             {
@@ -1710,6 +2037,10 @@
 
         availability: "paid",
         price: 200,
+
+        keywords: [
+            "拉完了", "炮姐", "銀幣", "美琴"
+        ],
 
         patches: [
 
@@ -1734,6 +2065,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "三哥", "拳哥", "斗之鬼","猗窝座", 
+        ],
+
         patches: [
 
             {
@@ -1757,28 +2092,9 @@
         availability: "free",
         price: 0,
 
-        patches: [
-
-            {
-                version: "1.2 (8/13/2026)",
-
-                details:
-                    " "
-            }
-            
-
-        ]
-
-    },
-
-
-    Hibari: {
-
-        attribute: "AGI",
-        image: "afb/hibari.png",
-
-        availability: "free",
-        price: 0,
+        keywords: [
+           "反击狗", "妖梦", "东方", "koros"
+        ],
 
         patches: [
 
@@ -1795,10 +2111,15 @@
     },
 
 
-    Deku: {
+
+    Midoriya: {
 
         attribute: "STR",
         image: "afb/deku.png",
+
+        keywords: [
+            "deku", "one for all", "绿谷", "+10"
+         ],
 
         availability: "free",
         price: 0,
@@ -1826,6 +2147,10 @@
         availability: "paid",
         price: 400,
 
+        keywords: [
+            "银河杀", "白七", "七夜志贵"
+         ],
+
         patches: [
 
             {
@@ -1848,6 +2173,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "黄泉", "阴间"
+         ],
 
         patches: [
 
@@ -1872,6 +2201,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "神", "OHHHHHHHHH", "一袋米要扛几楼", "佩恩", "痛苦"
+         ],
+
         patches: [
 
             {
@@ -1894,6 +2227,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "数值怪", "点名", "马桶", "变身狗", "蓝染"
+         ],
 
         patches: [
 
@@ -1918,6 +2255,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "拉完了", "一刀修罗", "斯黛拉"
+         ],
+
         patches: [
 
             {
@@ -1940,6 +2281,10 @@
 
         availability: "paid",
         price: 600,
+
+        keywords: [
+            "蓝呆", "saber", "kaas", "ai heer", "me na toi", "老板娘"
+         ],
 
         patches: [
 
@@ -1964,6 +2309,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "博人", "儿子", "比博燃"
+         ],
+
         patches: [
 
             {
@@ -1986,6 +2335,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "数值怪", "龙拳", "ryuken", "超四"
+         ],
 
         patches: [
 
@@ -2010,6 +2363,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "剑巫", "mizuki", "cute", "拉完了"
+         ],
+
         patches: [
 
             {
@@ -2031,6 +2388,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "umai", "大哥没有输", "炎柱"
+         ],
 
         patches: [
 
@@ -2055,6 +2416,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "数值怪", "阴间", "atomic", "暗影"
+         ],
+
         patches: [
 
             {
@@ -2077,6 +2442,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            " 神裂 ", "女仆装", "圣人"
+         ],
 
         patches: [
 
@@ -2101,28 +2470,9 @@
         availability: "free",
         price: 0,
 
-        patches: [
-
-            {
-                version: "1.2 (8/13/2026)",
-
-                details:
-                    " "
-            }
-            
-
-        ]
-
-    },
-
-
-    555: {
-
-        attribute: "AGI",
-        image: "afb/555.png",
-
-        availability: "free",
-        price: 0,
+        keywords: [
+            "老师", "格伦", "数值怪", "愚者"
+         ],
 
         patches: [
 
@@ -2147,28 +2497,9 @@
         availability: "free",
         price: 0,
 
-        patches: [
-
-            {
-                version: "1.2 (8/13/2026)",
-
-                details:
-                    " "
-            }
-            
-
-        ]
-
-    },
-
-
-    Scathach: {
-
-        attribute: "AGI",
-        image: "afb/scathach.png",
-
-        availability: "paid",
-        price: 300,
+        keywords: [
+            "kamen rider", "put", "吸血鬼", "duit duit duit"
+         ],
 
         patches: [
 
@@ -2189,6 +2520,10 @@
 
         attribute: "AGI",
         image: "afb/scathach.png",
+
+        keywords: [
+            "斯卡哈"
+         ],
 
         availability: "paid",
         price: 300,
@@ -2216,6 +2551,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "吸血鬼", "put", "变身狗", "宇智波斑"
+                 ],
+
         patches: [
 
             {
@@ -2238,6 +2577,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "斗甲", "我奶奶说过", "kamen rider"
+         ],
 
         patches: [
 
@@ -2262,6 +2605,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "变身狗", "路飞", "海贼王"
+         ],
+
         patches: [
 
             {
@@ -2284,6 +2631,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴间", "数值怪", "jojo", "老板", "迪亚波罗", "duang"
+         ],
 
         patches: [
 
@@ -2308,6 +2659,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "ZA WARUDO", "the world", "迪奥", "muda", "jojo", "kono dio da"
+         ],
+
         patches: [
 
             {
@@ -2331,6 +2686,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "鲁路修", "阴间"
+         ],
+
         patches: [
 
             {
@@ -2352,6 +2711,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "kamen rider", "亚克", "仇恨", "阴间"
+         ],
 
         patches: [
 
@@ -2376,6 +2739,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "悟饭", "masenko", "猫猫头"
+         ],
+
         patches: [
 
             {
@@ -2399,6 +2766,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "tt", "阴间", "抚子", "姐妹"
+         ],
+
         patches: [
 
             {
@@ -2421,6 +2792,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "灵梦", "东方", "kaas", "ai heer", "me na toi", "老板娘"
+         ],
+
         patches: [
 
             {
@@ -2442,6 +2817,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴间", "数值怪", "卡密", "夜神月"
+         ],
 
         patches: [
 
@@ -2466,6 +2845,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "数值怪", "krm", "koros", "魔王", "阴间"
+         ],
+
         patches: [
 
             {
@@ -2487,6 +2870,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "阴间", "put", "吸血鬼", "猫猫头"
+         ],
 
         patches: [
 
@@ -2511,6 +2898,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "数值怪", "金闪闪"
+         ],
+
         patches: [
 
             {
@@ -2532,6 +2923,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "门", "gundam", "阴间", "变身狗"
+         ],
 
         patches: [
 
@@ -2556,6 +2951,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴完了", "猫猫头", "来晚了吗", "死水", "飞雷神" 
+         ],
+
         patches: [
 
             {
@@ -2571,10 +2970,16 @@
     },
 
 
-    215: {
+    RyougiFGO: {
 
         attribute: "AGI",
         image: "afb/215.png",
+
+        keywords: [
+            "215"
+
+        ],
+
 
         availability: "paid",
         price: 400,
@@ -2602,6 +3007,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "阴完了", "牌哥", "老板娘", "kaas", "ai heer", "me na toi", "猫猫头"
+         ],
+
         patches: [
 
             {
@@ -2624,6 +3033,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "kamen rider", "老谭", "coconut", "zetban da"
+         ],
+
         patches: [
 
             {
@@ -2645,6 +3058,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴间", "奈叶", "魔法少女", "龙车", "tt"
+         ],
 
         patches: [
 
@@ -2669,6 +3086,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "止水", "变身狗", "阴间"
+         ],
+
         patches: [
 
             {
@@ -2691,6 +3112,10 @@
 
         availability: "paid",
         price: 300,
+        
+        keywords: [
+            "阴完了", "五条悟", "2.5条悟", "5t5", "2.5t5", "六眼", "会赢的"
+         ],
 
         patches: [
 
@@ -2715,6 +3140,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "white drive", "未来罗格", "阴间", "变身狗", "noire"
+         ],
+
         patches: [
 
             {
@@ -2737,6 +3166,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "jojo", "卖鱼强", "ora", "阴完了"
+         ],
 
         patches: [
 
@@ -2761,6 +3194,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "shana", "阴完了", "数值怪", "尼禄"
+         ],
+
         patches: [
 
             {
@@ -2783,6 +3220,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴完了", "数值怪", "龙卷"
+         ],
 
         patches: [
 
@@ -2807,6 +3248,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "流莹", "变身狗"
+         ],
+
         patches: [
 
             {
@@ -2829,6 +3274,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "蚊子", "阴完了", "数值怪", "杰拉尔"
+         ],
 
         patches: [
 
@@ -2853,6 +3302,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "阴间", "kamen rider", "路过的", "dcd", "dk", "onore"
+         ],
+
         patches: [
 
             {
@@ -2874,6 +3327,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "白一护", "阴间"
+         ],
 
         patches: [
 
@@ -2898,6 +3355,10 @@
         availability: "paid",
         price: 200,
 
+        keywords: [
+            "旧剑", "seal 13"
+         ],
+
         patches: [
 
             {
@@ -2921,6 +3382,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴间", "拉完了", "未花", "BA 玩家"
+         ],
+
         patches: [
 
             {
@@ -2936,13 +3401,20 @@
     },
 
 
-    214: {
+    RyougiKimono: {
 
         attribute: "AGI",
         image: "afb/214.png",
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "214", "拉完了", "不是人"
+        ],
+
+
+        
 
         patches: [
 
@@ -2967,6 +3439,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "红猴", "put", "吸血鬼", "数值怪"
+         ],
+
         patches: [
 
             {
@@ -2990,6 +3466,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "可莉", "阴间", "蹦蹦炸弹"
+         ],
+
         patches: [
 
             {
@@ -3012,6 +3492,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "duang", "当麻"
+         ],
 
         patches: [
 
@@ -3037,6 +3521,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "剑心"
+         ],
+
         patches: [
 
             {
@@ -3059,6 +3547,10 @@
 
         availability: "paid",
         price: 400,
+
+        keywords: [
+            "ohhh", "送头的", "dmc", "猫猫头", "变身狗", "hell yeah", "weif", "grab"
+         ],
 
         patches: [
 
@@ -3083,6 +3575,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "变身狗", "818", "put", "吸血鬼", "数值怪"
+         ],
+
         patches: [
 
             {
@@ -3106,6 +3602,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "跳舞", "阴间", "是男人就玩", "makuro", "bang"
+         ],
+
         patches: [
 
             {
@@ -3127,6 +3627,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "tt", "阿米娅", "驴子", "变身狗", "阴间"
+         ],
 
         patches: [
 
@@ -3151,6 +3655,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴完了", "kaas", "ai heer", "me na toi", "老板娘", "K三", "date a live", "k3", "狂三"
+         ],
+
         patches: [
 
             {
@@ -3174,6 +3682,10 @@
         availability: "paid",
         price: 500,
 
+        keywords: [
+            "变身狗", "阴间"
+         ],
+
         patches: [
 
             {
@@ -3196,6 +3708,10 @@
 
         availability: "free",
         price: 0,
+        
+        keywords: [
+            "阴完了", "tt", "卡玛"
+         ],
 
         patches: [
 
@@ -3220,28 +3736,9 @@
         availability: "free",
         price: 0,
 
-        patches: [
-
-            {
-                version: "1.2 (8/13/2026)",
-
-                details:
-                    " "
-            }
-            
-
-        ]
-
-    },
-
-
-    itachi: {
-
-        attribute: "AGI",
-        image: "afb/itachi.png",
-
-        availability: "free",
-        price: 0,
+        keywords: [
+            "七夜志贵", "阴完了", "找得到吗", "数值怪", "反击狗"
+         ],
 
         patches: [
 
@@ -3266,6 +3763,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "变身狗", "鼬", "阴间"
+         ],
+
         patches: [
 
             {
@@ -3279,6 +3780,7 @@
         ]
 
     },
+
 
     
     Sixpathmadara: {
@@ -3288,6 +3790,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "阴完了", "来桶可乐", "猫猫头", "六道斑"
+         ],
 
         patches: [
 
@@ -3312,6 +3818,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+             "noire", "斯汀格", "变身狗", "KURAI NA"
+         ],
+
         patches: [
 
             {
@@ -3334,6 +3844,10 @@
         availability: "paid",
         price: 200,
 
+        keywords: [
+            "跟得上吗", "数值怪", "re assa", "卫宫"
+         ],
+
         patches: [
 
             {
@@ -3349,13 +3863,17 @@
     },
 
 
-    216: {
+    RyougiAssa: {
 
         attribute: "AGI",
         image: "afb/216.png",
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "216", "阴完了"
+        ],
 
         patches: [
 
@@ -3380,6 +3898,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "暴风女", "阴间", "tt", "反击狗"
+         ],
+
         patches: [
 
             {
@@ -3402,6 +3924,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "点名", "格蕾"
+         ],
 
         patches: [
 
@@ -3426,6 +3952,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "koros", "krm", "反击狗", "angel beat", "阴间", "立华奏"
+         ],
+
         patches: [
 
             {
@@ -3447,6 +3977,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "喷水萝莉", "loli", "mizuki", "cute", "镜花"
+         ],
 
         patches: [
 
@@ -3471,6 +4005,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "拉完了", "不是人", "koros", "krm", "莉莉丝"
+         ],
+
         patches: [
 
             {
@@ -3493,6 +4031,11 @@
 
         availability: "free",
         price: 0,
+        
+
+        keywords: [
+            "老板娘", "kaas", "ai heer", "me na toi", "大家姐", "妹红"
+         ],
 
         patches: [
 
@@ -3517,6 +4060,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴间", "杀生院"
+         ],
+
         patches: [
 
             {
@@ -3539,6 +4086,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "今夕"
+         ],
 
         patches: [
 
@@ -3563,6 +4114,10 @@
         availability: "paid",
         price: 400,
 
+        keywords: [
+            "saber", "阴间", "村正"
+         ],
+
         patches: [
 
             {
@@ -3585,6 +4140,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "kamen rider", "龙骑", "拉完了", "反击狗"
+         ],
 
         patches: [
 
@@ -3609,6 +4168,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "artoria", "阴间", "数值怪"
+         ],
+
         patches: [
 
             {
@@ -3631,6 +4194,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "拉完了", "桐人", "速度", "starbust stream", "黑衣剑士"
+         ],
 
         patches: [
 
@@ -3655,6 +4222,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴间", "数值怪", "悟吉塔", "宇宙最强男人"
+         ],
+
         patches: [
 
             {
@@ -3677,6 +4248,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "红A", "前辈"
+         ],
 
         patches: [
 
@@ -3701,6 +4276,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "拉完了", "阴间", "mizuki", "cute", "反击狗"
+         ],
+
         patches: [
 
             {
@@ -3723,6 +4302,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "变身狗", "背上火影的身份", "我可不能输", "四代", "金色饭桶", "4D", "水门"
+         ],
 
         patches: [
 
@@ -3747,6 +4330,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "YABEI", "overflow", "max hazard on", "kamen rider", "兔骑", "要命的来了", "战兔"
+         ],
+
         patches: [
 
             {
@@ -3769,6 +4356,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴间", "骨王"
+         ],
 
         patches: [
 
@@ -3793,6 +4384,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "拉完了", "不是人", "数值怪", "路飞", "海贼王", "太阳神", "nika"
+         ],
+
         patches: [
 
             {
@@ -3815,6 +4410,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "舞台少女", "爱城华恋", "kaas", "me na toi", "ai heer", "老板娘"
+         ],
 
         patches: [
 
@@ -3839,6 +4438,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "拉完了", "阴间", "杰克 ", "反击狗", "女性杀手"
+         ],
+
         patches: [
 
             {
@@ -3861,6 +4464,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "拉完了", "蓝猴"
+         ],
 
         patches: [
 
@@ -3885,28 +4492,9 @@
         availability: "free",
         price: 0,
 
-        patches: [
-
-            {
-                version: "1.2 (8/13/2026)",
-
-                details:
-                    " "
-            }
-            
-
-        ]
-
-    },
-
-
-    Archer: {
-
-        attribute: "AGI",
-        image: "afb/archer.png",
-
-        availability: "free",
-        price: 0,
+        keywords: [
+            "拉完了", "blg", "东方", "二妹"
+         ],
 
         patches: [
 
@@ -3931,6 +4519,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "拉完了", "数值怪", "阴间", "杰尔夫", "皇帝"
+         ],
+
         patches: [
 
             {
@@ -3953,6 +4545,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴完了", "数值怪", "遊戲王",
+         ],
 
         patches: [
 
@@ -3977,6 +4573,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "变身狗", "put", "吸血鬼", "阴间", "天龙", "温蒂" 
+         ],
+
         patches: [
 
             {
@@ -3999,6 +4599,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "露西亚", "阴间", "跳舞", "宿命的牢笼", ")))))))))", "红眼"
+         ],
 
         patches: [
 
@@ -4023,6 +4627,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "露西亚"
+         ],
+
         patches: [
 
             {
@@ -4045,6 +4653,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+           "kaas", "ai heer", "me na toi", "老板娘", "礼奈"
+         ],
 
         patches: [
 
@@ -4069,6 +4681,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "月", "阴间", "数值怪", "mizuki", "cute", "shana"
+         ],
+
         patches: [
 
             {
@@ -4092,6 +4708,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "最阴的", "白猫"
+         ],
+
         patches: [
 
             {
@@ -4114,6 +4734,10 @@
 
         availability: "paid",
         price: 0,
+
+        keywords: [
+            "阴间", "数值怪", "信长"
+         ],
 
         patches: [
 
@@ -4141,6 +4765,10 @@
         availability: "paid",
         price: 200,
 
+        keywords: [
+            "阴间", "阿比盖尔", "tt", "koros", "krm"
+         ],
+
         patches: [
 
             {
@@ -4163,6 +4791,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "黑猴", "拉完了", "阴间"
+         ],
 
         patches: [
 
@@ -4187,6 +4819,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "小太阳", "阴间", "数值怪"
+         ],
+
         patches: [
 
             {
@@ -4210,6 +4846,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "白猴", "拉完了", "阴间", "put", "吸血鬼"
+         ],
+
         patches: [
 
             {
@@ -4232,6 +4872,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "变身狗", "火龙", "纳兹", "noire", "put", "吸血鬼", "阴间"
+         ],
 
         patches: [
 
@@ -4257,6 +4901,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "阴完了", "grab", "伊蕾娜", "魔女"
+         ],
+
         patches: [
 
             {
@@ -4281,28 +4929,9 @@
         availability: "paid",
         price: 300,
 
-        patches: [
-
-            {
-                version: "1.2 (8/13/2026)",
-
-                details:
-                    " "
-            }
-            
-
-        ]
-
-    },
-
-
-    Alice: {
-
-        attribute: "AGI",
-        image: "afb/Alice.png",
-
-        availability: "paid",
-        price: 300,
+        keywords: [
+            "爱丽丝", "阴间", "BA玩家"
+         ],
 
         patches: [
 
@@ -4317,6 +4946,8 @@
         ]
 
     },
+
+
 
 
 
@@ -4327,6 +4958,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "阴间", "数值怪", "门"
+         ],
 
         patches: [
 
@@ -4351,6 +4986,10 @@
         availability: "paid",
         price: 400,
 
+        keywords: [
+            "朱月", "阴间", "反击狗"
+         ],
+
         patches: [
 
             {
@@ -4374,6 +5013,10 @@
         availability: "paid",
         price: 0,
 
+        keywords: [
+            "反击狗", "阴完了", "地狱少女", "阎魔爱"
+         ],
+
         patches: [
 
             {
@@ -4389,13 +5032,17 @@
     },
 
 
-    TwoB: {
+    twoB: {
 
         attribute: "AGI",
         image: "afb/2b.png",
 
         availability: "paid",
         price: 200,
+
+        keywords: [
+            "拉完了", "不是人", "2b"
+         ],
 
         patches: [
 
@@ -4420,6 +5067,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "傲慢", "谁决定的", "谁说的", "太阳"
+         ],
+
         patches: [
 
             {
@@ -4442,6 +5093,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "阴间", "宿傩", "ryouki tenkai", "领域展开"
+         ],
 
         patches: [
 
@@ -4466,6 +5121,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "YOU ARE SHOCK", "反击狗", "数值够", "omae wa mou shindeiru", "健太郎", "阴间"
+         ],
+
         patches: [
 
             {
@@ -4488,6 +5147,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "数值怪", "阴间", "岩窟王", "krm", "koros"
+         ],
 
         patches: [
 
@@ -4512,6 +5175,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "MEIGOU", "美狗", "咕噜咕噜", "gulu gulu", "赤犬", "玛卡巴卡", "阴间", "正义", "seigi"
+         ],
+
         patches: [
 
             {
@@ -4534,6 +5201,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "拉完了", "最强男人", "白胡子", "地震"
+         ],
 
         patches: [
 
@@ -4558,6 +5229,10 @@
         availability: "paid",
         price: 500,
 
+        keywords: [
+            "koros", "krm", "姐妹", "椿椿椿"
+         ],
+
         patches: [
 
             {
@@ -4580,6 +5255,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "花嫁尼禄", "阴间"
+         ],
 
         patches: [
 
@@ -4604,6 +5283,11 @@
         availability: "free",
         price: 0,
 
+
+        keywords: [
+            "女16", "za warudo", "阴间", "kaas", "ai heer", "me na toi", "老板娘", "东方"
+         ],
+
         patches: [
 
             {
@@ -4626,6 +5310,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "拉完了", "我的手", "阴间", "王的力量", "垃圾", "集王"
+         ],
 
         patches: [
 
@@ -4652,6 +5340,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "没蓝了", "阴完了", "喷水", "水大叔", "BA玩家"
+         ],
+
         patches: [
 
             {
@@ -4674,6 +5366,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "暗杀者", "阴间", "小暗", "黑暗"
+         ],
 
         patches: [
 
@@ -4698,6 +5394,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "痛苦面具", "琳", "我的心已经没有东西了", "我的心脏呢", "阴间", "kamui", "带土"
+         ],
+
         patches: [
 
             {
@@ -4720,6 +5420,10 @@
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "六道带土", "阴间", "kamui"
+         ],
 
         patches: [
 
@@ -4747,6 +5451,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "拉完了", "krm", "koros", "数值怪"
+         ],
+
         patches: [
 
             {
@@ -4770,6 +5478,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴间", "周牌", "拉完了", "夜太美", "王妃"
+         ],
+
         patches: [
 
             {
@@ -4789,6 +5501,10 @@
 
         attribute: "AGI",
         image: "afb/luciapyroath.png",
+
+        keywords: [
+         "变身狗", "誓炎", "露西亚", "门", "阴间", "跳舞"
+         ],
 
         availability: "paid",
         price: 300,
@@ -4816,6 +5532,10 @@
         availability: "free",
         price: 0,
 
+        keywords: [
+            "阴完了", "batman", "noire", "小乌"
+         ],
+
         patches: [
 
             {
@@ -4839,6 +5559,10 @@
         availability: "paid",
         price: 300,
 
+        keywords: [
+            "tt", "骑摩托", "motor", "阴完了", "龙车", "布洛妮娅"
+         ],
+
         patches: [
 
             {
@@ -4854,13 +5578,17 @@
     },
 
 
-    Sasukexiazuo: {
+    侠佐: {
 
         attribute: "AGI",
         image: "afb/xiazuo.png",
 
         availability: "paid",
         price: 300,
+
+        keywords: [
+            "阴完了", "猫猫头", "跳舞", "上下限", "上限", "下限"
+         ],
 
         patches: [
 
@@ -4885,6 +5613,11 @@
         availability: "Free",
         price: 0,
 
+        keywords: [
+            "军姬", "阴完了", "反击狗", "门", "阿尔泰尔"
+         ],
+
+
         patches: [
 
             {
@@ -4902,11 +5635,6 @@
 
 
 
-
-
-
-
-
     Meliodas: {
 
         attribute: "AGI",
@@ -4914,6 +5642,10 @@
 
         availability: "free",
         price: 0,
+
+        keywords: [
+            "变身狗", "put", "吸血鬼", "反击狗", "数值怪"
+         ],
 
         patches: [
 
@@ -4967,6 +5699,9 @@ const priceSort =
 /* =====================================================
    DISPLAY HEROES
    ===================================================== */
+
+
+   
 
 
 function displayHeroes(heroList) {
@@ -5075,37 +5810,37 @@ function updateHeroDisplay() {
        ------------------------- */
 
     const searchText =
-        searchBar.value
-            .toLowerCase()
-            .trim();
+        searchBar.value.toLowerCase().trim();
 
 
     /* -------------------------
        START WITH ALL HEROES
        ------------------------- */
 
-    let filteredHeroes =
-        Object.entries(heroes);
+    let filteredHeroes =Object.entries(heroes);
 
 
     /* =================================================
        SEARCH
        ================================================= */
 
-    if (
-        searchText !== ""
-    ) {
+       if (searchText !== "") {
 
-        filteredHeroes =
-            filteredHeroes.filter(
-                ([name, hero]) =>
-
-                    name
-                        .toLowerCase()
-                        .includes(searchText)
-
-            );
-
+        filteredHeroes = filteredHeroes.filter(([name, hero]) => {
+    
+            const nameMatch =
+                name.toLowerCase().includes(searchText);
+    
+            const keywordMatch =
+                hero.keywords &&
+                hero.keywords.some(keyword =>
+                    keyword.toLowerCase().includes(searchText)
+                );
+    
+            return nameMatch || keywordMatch;
+    
+        });
+    
     }
 
 
