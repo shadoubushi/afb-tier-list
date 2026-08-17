@@ -4406,7 +4406,7 @@
     Karen: {
 
         attribute: "AGI",
-        image: "afb/Karen.png",
+        image: "afb/karen.png",
 
         availability: "free",
         price: 0,
@@ -4924,7 +4924,7 @@
     Alice: {
 
         attribute: "AGI",
-        image: "afb/Alice.png",
+        image: "afb/alice.png",
 
         availability: "paid",
         price: 300,
@@ -5278,7 +5278,7 @@
     IzayoiGirl: {
 
         attribute: "AGI",
-        image: "afb/izayoigirl.png",
+        image: "afb/izayoiGirl.png",
 
         availability: "free",
         price: 0,
