@@ -659,7 +659,7 @@
         price: 300,
 
         keywords: [ 
-            "前辈我肮脏了吗", "间桐樱"
+            "前辈我肮脏了吗", "间桐樱", "门"
         ],
 
         patches: [
@@ -686,7 +686,7 @@
         price: 300,
 
         keywords: [ 
-            "阴间", "艾蕾", "kaas", "me na toi", "ai heer", "老板娘"
+            "阴间", "艾蕾", "kaas", "me na toi", "ai heer", "老板娘", "门"
         ],
 
         
@@ -3656,7 +3656,7 @@
         price: 0,
 
         keywords: [
-            "阴完了", "kaas", "ai heer", "me na toi", "老板娘", "K三", "date a live", "k3", "狂三"
+            "阴完了", "kaas", "ai heer", "me na toi", "老板娘", "K三", "date a live", "k3", "狂三", "门"
          ],
 
         patches: [
@@ -3683,7 +3683,7 @@
         price: 500,
 
         keywords: [
-            "变身狗", "阴间"
+            "变身狗", "阴间", "门"
          ],
 
         patches: [
@@ -4601,7 +4601,7 @@
         price: 300,
 
         keywords: [
-            "露西亚", "阴间", "跳舞", "宿命的牢笼", ")))))))))", "红眼"
+            "露西亚", "阴间", "跳舞", "宿命的牢笼", ")))))))))", "红眼", "门"
          ],
 
         patches: [
@@ -4930,7 +4930,7 @@
         price: 300,
 
         keywords: [
-            "爱丽丝", "阴间", "BA玩家"
+            "爱丽丝", "阴间", "BA玩家", "门"
          ],
 
         patches: [
@@ -5278,7 +5278,7 @@
     IzayoiGirl: {
 
         attribute: "AGI",
-        image: "afb/izayoiGirl.png",
+        image: "afb/izayoigirl.png",
 
         availability: "free",
         price: 0,
@@ -5560,7 +5560,7 @@
         price: 300,
 
         keywords: [
-            "tt", "骑摩托", "motor", "阴完了", "龙车", "布洛妮娅"
+            "tt", "骑摩托", "motor", "阴完了", "龙车", "布洛妮娅", "门"
          ],
 
         patches: [
