@@ -5722,11 +5722,7 @@ function displayHeroes(heroList) {
        CREATE HERO CARDS
        ------------------------- */
 
-    for (const name in heroList) {
-
-
-        const hero =
-            heroList[name];
+    for (const [name, hero] of heroList) {
 
 
         const card =
@@ -5901,21 +5897,11 @@ function updateHeroDisplay() {
 
 
     /* =================================================
-       CONVERT ARRAY BACK TO OBJECT
-       ================================================= */
-
-    const heroObject =
-        Object.fromEntries(
-            filteredHeroes
-        );
-
-
-    /* =================================================
        DISPLAY
        ================================================= */
 
     displayHeroes(
-        heroObject
+        filteredHeroes
     );
 
 }
@@ -6127,4 +6113,4 @@ window.onclick =
    ===================================================== */
 
 
-displayHeroes(heroes);
+displayHeroes(Object.entries(heroes));
