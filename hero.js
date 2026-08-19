@@ -8,7 +8,7 @@
     Vergil: {
 
         attribute: "AGI",
-        image: "afb/vergil.png",
+        image: "afb/vergil.jpg",
 
         availability: "paid",
         price: 400,
@@ -1886,7 +1886,7 @@
                 version: "22.0.342 (18/8/2026)",
 
                 details:
-                    "调整山中老人喂敏捷"
+                    "调整山中老人为敏捷"
             }
             
 
