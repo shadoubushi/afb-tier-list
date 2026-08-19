@@ -106,10 +106,10 @@
         patches: [
 
             {
-                version: "1.2",
+                version: "22.0.342 18/8/2026",
 
                 details:
-                    " "
+                    "删除鸣人E2分身, W 分身设置没有攻击力"
             }
 
         ]
@@ -1870,23 +1870,23 @@
 
     Hassan: {
 
-        attribute: "STR",
+        attribute: "AGI",
         image: "afb/hassan.png",
 
         availability: "paid",
         price: 500,
 
         keywords: [
-            "拉完了", "王哈", "秒杀", "山中老人", "kubi", "交出手机", "assa"
+            "王哈", "秒杀", "山中老人", "kubi", "交出手机", "assa"
         ],
 
         patches: [
 
             {
-                version: "1.2 (8/13/2026)",
+                version: "22.0.342 (18/8/2026)",
 
                 details:
-                    " "
+                    "调整山中老人喂敏捷"
             }
             
 
